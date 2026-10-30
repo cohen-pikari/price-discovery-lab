@@ -37,4 +37,6 @@ This repository documents investigative research into asset pricing and valuatio
 
 Do your own research and consult a licensed financial adviser before making investment decisions.
 
+Parts of this project were built with AI assistance (Claude). I set the design, review the output and run the work.
+
 Maintained by Cohen Pikari (github.com/cohen-pikari)
